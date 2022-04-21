@@ -15,7 +15,7 @@ Login using `admin/admin`
 ## Installation
 
 ```
-$ composer require laravel-admin-ext/helpers
+$ composer require snowsoft/helpers
 
 $ php artisan admin:import helpers
 ```
